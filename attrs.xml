@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Indicator">
+        <attr name="color" format="color|reference" />
+        <attr name="height" format="dimension|reference" />
+    </declare-styleable>
+    <declare-styleable name="Lrc">
+        <attr name="textSize" format="dimension|reference"/>
+        <attr name="currenttextSize" format="dimension|reference"/>
+        <attr name="normalTextColor" format="reference|color" />
+        <attr name="currentTextColor" format="reference|color" />
+        <attr name="dividerHeight" format="dimension|reference" />
+        <attr name="rows" format="integer" />
+    </declare-styleable>
+</resources>
